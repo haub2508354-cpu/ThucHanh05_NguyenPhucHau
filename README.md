@@ -3,8 +3,8 @@
 ## Danh sách file
 - Nhiệm vụ 1.1, 1.2: `thuchanh1.pdf`
 - Nhiệm vụ 2.1: `hinh_nhiemvu2.png`
-- Nhiệm vụ 2.2: `video_baocao.mp4` hoặc [Link Google Drive](https://drive.google.com/drive/folders/11kbgbegpG_67RKqkyV_zj0CVWncyqv8N?usp=drive_link)
-- Nhiệm vụ 3.1: `index.html`
+- Nhiệm vụ 2.2: `video_baocao.mp4` hoặc [Link Google Drive](https://drive.google.com/file/d/1HCxLU2OcsAMmgUAOLLdIjWlCSCJUmVKN/view?usp=sharing)
+- Nhiệm vụ 3.1: `index.html` 
 
 ## Trích dẫn nguồn AI
 - Công cụ hỗ trợ: Canva AI, Copilot
